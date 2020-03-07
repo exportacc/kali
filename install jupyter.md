@@ -9,7 +9,7 @@ tags:
     - Kali Linux
 ---
 
-我是建立一個虛擬環境再在裏面install Jupyter  
+建立一個虛擬環境再在裏面install Jupyter  
 
 ``` pip install virtualenv ```
 
